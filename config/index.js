@@ -28,7 +28,7 @@ export const config = {
 
     /** 每日N句 */
     // 金山每日一句
-    CIBA: true,
+    CIBA: false,
     // 每日一言
     oneTalk: false,
     // 土味情话(彩虹屁)
@@ -61,7 +61,7 @@ export const config = {
     {
       name: "亲爱的老婆大人",
       id: "o2uEE6UV3fRiG3kNY4KfNXGPD-Ko",
-      useTemplateId: "arqPoqfQqmG7bUrjS4LRAgZM4YGO6FNZQlW4VPJV7mU",
+      useTemplateId: "hhndk_NGoc8XAFsAvy3862VCTMjzB9r0boxwWP9KQEI",
       province: "湖南",
       city: "长沙",
       horoscopeDate: '10-30',
