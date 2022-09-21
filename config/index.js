@@ -61,7 +61,7 @@ export const config = {
     {
       name: "亲爱的老婆大人",
       id: "o2uEE6S2Bx1gUtX3Vqmg7SSrC5-g",
-      useTemplateId: "QNTlEGjbQ5gYUX1NoeldCn8OMVl3Ashk7ZabQaES3j4",
+      useTemplateId: "r3UsboFLHDs9FS2CzCyaJZ_vK6J3vjza6ObJjdtWU7k",
       province: "湖南",
       city: "长沙",
       horoscopeDate: '10-30',
