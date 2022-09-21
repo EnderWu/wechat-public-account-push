@@ -60,8 +60,8 @@ export const config = {
   USERS: [
     {
       name: "亲爱的老婆大人",
-      id: "o2uEE6S2Bx1gUtX3Vqmg7SSrC5-g",
-      useTemplateId: "w2IgBheXwaHGgeQDBHoS9pbnJHJLckohSjKHUHzImOk",
+      id: "o2uEE6UV3fRiG3kNY4KfNXGPD-Ko",
+      useTemplateId: "RYwS5986GnGrUnkrZgp025_0h4UgveAWwDz22n2FOhw",
       province: "湖南",
       city: "长沙",
       horoscopeDate: '10-30',
